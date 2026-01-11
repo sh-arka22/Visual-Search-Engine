@@ -1,8 +1,6 @@
-# Visual-Search-Engine
+# Visual Search Engine
 
-# Image Search Engine
-
-This project is an image search engine that allows users to upload an image and find similar images from a preloaded database. It uses the ResNet50 model for feature extraction and cosine similarity for finding similar images.
+An intelligent image search engine that allows users to upload images and find visually similar images from a preloaded database. It uses the ResNet50 model for feature extraction and cosine similarity for finding similar images.
 
 ## Features
 
@@ -21,8 +19,8 @@ This project is an image search engine that allows users to upload an image and 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/nasirovsh/ecommerce-visual-search.git
-    cd ecommerce-visual-search
+    git clone https://github.com/sh-arka22/Visual-Search-Engine.git
+    cd Visual-Search-Engine
     ```
 
 2. **Create a virtual environment**:
@@ -102,6 +100,10 @@ This project is an image search engine that allows users to upload an image and 
 - If you encounter memory issues, try reducing the number of images in your database or upgrading your hardware.
 - Ensure your uploaded images are in JPG format and are not corrupted.
 - If the app is slow, it might be due to the initial loading of the database. Subsequent runs should be faster due to caching.
+
+## Author
+
+Created by [Arkajyoti Saha](https://github.com/sh-arka22)
 
 ## Contributing
 
